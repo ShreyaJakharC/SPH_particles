@@ -52,9 +52,12 @@ I tackled this fluid simulation in my Numerical Computing course, and it was a b
 - **Performance Gains:** Learned to balance physical accuracy with real-time responsiveness.
 - **Video of the stimulation:**
 <video width="640" controls>
-  <source src="assets/video.mov" type="video/quicktime">
+  <source src="assets/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+[Download the demo video](assets/video.mp4)
+
 
 
 
