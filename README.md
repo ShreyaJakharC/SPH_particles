@@ -51,7 +51,11 @@ I tackled this fluid simulation in my Numerical Computing course, and it was a b
 - **Interactive Sandbox:** Double-click & cursor repulsion transformed a static demo into a playful exploration.
 - **Performance Gains:** Learned to balance physical accuracy with real-time responsiveness.
 - **Video of the stimulation:**
-![SPH Simulation Demo](/video.mp4)
+<video width="640" controls>
+  <source src="/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 
