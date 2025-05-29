@@ -50,10 +50,12 @@ I tackled this fluid simulation in my Numerical Computing course, and it was a b
 - **Hands-On Learning:** Instant feedback from sliders deepened my understanding of SPH parameters.
 - **Interactive Sandbox:** Double-click & cursor repulsion transformed a static demo into a playful exploration.
 - **Performance Gains:** Learned to balance physical accuracy with real-time responsiveness.
-- **Video of the stimulation:** <video width="640" controls>
-  <source src="assets/video.mov" type="video/mov">
+- **Video of the stimulation:**
+<video width="640" controls>
+  <source src="assets/video.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
+
 
 
 ## Skills Gained
